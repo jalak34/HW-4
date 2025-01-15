@@ -1,0 +1,21 @@
+body {
+    font-size: 24px;
+}
+span.black {
+    color: black
+}
+span.black {
+    color: black;
+}
+p.italic {
+    font-style: italic;
+}
+span.large {
+    font-size: 50px;
+}
+span.xlarge {
+    font-size: 60px;
+}
+span.xxlarge {
+    font-size: 70px;
+}
